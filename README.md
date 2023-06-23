@@ -21,7 +21,7 @@ Use regression: We apply regularized linear regression Lasso/Ridge with one step
   
 
 Once we discover the underlying dynamical equations, it will be a lot easier to forecast.
-
+![Discovery example](/src/dthetadt2_fit.png?raw=true)
 Next moves:
 
 In reality, it is difficult to know the right coordinates and basis functions to use. The interesting extension of SINDy so far has been to use latent basis / coordinates instead of physical space basis. In latent space,
