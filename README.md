@@ -20,7 +20,7 @@ Choose basis: We will choose a non-linear basis constructed from the time series
 Use regression: We apply regularized linear regression Lasso/Ridge with one step or we can perform sequential thresholding least squares [1].
   
 
-Once we discover the underlying dynamical equations, it will be a lot easier to forecast becomes.
+Once we discover the underlying dynamical equations, it will be a lot easier to forecast.
 
 Next moves:
 
